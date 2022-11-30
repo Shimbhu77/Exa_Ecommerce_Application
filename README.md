@@ -67,6 +67,10 @@ Before running the API server, update the database config inside the application
 
 Link: http://localhost:8888/swagger-ui/
 
+## Deployed Project Presentation Video
+
+Link:https://drive.google.com/file/d/1pSQmgn7yjQUWG5OG3MdBnPVB0-EqE1Ft/view?usp=share_link
+
 ## Roles & Responsibilities :-
 
 - Responsible for All Features
